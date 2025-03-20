@@ -1,5 +1,3 @@
-<img src="URL_DA_IMAG" width="200">
-
 # 🚀 Hey there! I'm Henrique Bassan Rebechi 
 
 🎓 **Computer Science Student @FEI**  
