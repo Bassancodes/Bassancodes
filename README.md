@@ -7,7 +7,7 @@
 ---
 
 ## 📢 About Me  
-A young mind embracing every opportunity to **innovate and transform** through technology. I believe that IT is not just about coding—it's about **revolutionizing industries, solving real-world problems, and turning dreams into reality through software**. Every challenge is a chance to create something impactful, and that's what drives me forward.  
+A young mind embracing every opportunity to **innovate and transform** through technology. I believe that IT is not just about coding, it's about **revolutionizing industries, solving real-world problems, and turning dreams into reality through software**. Every challenge is a chance to create something impactful, and that's what drives me forward.  
 
 ---
 
